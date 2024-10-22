@@ -1,9 +1,9 @@
 # :earth_americas: GDP dashboard template
 
-A simple Streamlit app showing the GDP of different countries in the world.
+You can now view your Streamlit app in your browser.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
-
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.16.70:8501
 ### How to run it on your own machine
 
 1. Install the requirements
